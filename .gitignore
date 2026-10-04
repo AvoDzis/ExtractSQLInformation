@@ -1,0 +1,16 @@
+# Credentials
+.env
+
+# Script output (contains instance names and private IPs)
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
